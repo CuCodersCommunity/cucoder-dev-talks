@@ -12,7 +12,7 @@ import image from "@astrojs/image";
 
 // https://astro.build/config
 export default defineConfig({
-  site: astropodConfig.site,
+  site: 'https://podcast.cucoders.dev',
   integrations: [
     robotsTxt({
       policy: [
