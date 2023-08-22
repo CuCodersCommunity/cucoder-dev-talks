@@ -1,8 +1,8 @@
 {
-  "spotify": "",
-  "googlePodcast": "",
+  "spotify": "https://open.spotify.com/show/5WLTPsVF6zAvEnirWfP69a",
+  "googlePodcast": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lNzA3ZmI2MC9wb2RjYXN0L3Jzcw",
   "applePodcast": "",
-  "easyPodcast": "",
+  "easyPodcast": "https://easypodcasts.live/831-cucoders-dev-talks",
   "amazonMusic": "",
   "fountain": "",
   "ivoox": "",
